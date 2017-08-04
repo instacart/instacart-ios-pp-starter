@@ -1,2 +1,6 @@
-# instacart-ios-pp-starter
-Starter app to give candidates starting on pair programming exercise
+### Getting Started
+```
+brew install carthage
+carthage update --cache-builds --platform ios
+open Pear.xcodeproj
+```
