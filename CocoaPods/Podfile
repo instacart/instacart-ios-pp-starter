@@ -1,0 +1,4 @@
+use_frameworks!
+target :Pear do
+    pod "Alamofire"
+end
